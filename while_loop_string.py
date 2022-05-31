@@ -1,4 +1,4 @@
-# prints string from left to right by parsing from it from right to left
+# prints string from left to right by parsing from right to left
 # parses reverse
 #prints from left to right in newlines
 print('string from left to right in a newline by parsing it from right to left')
